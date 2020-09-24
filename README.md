@@ -1,4 +1,10 @@
 ### Hi there 👋
+###
+### Currently working on n-body simulation with mesh deformation, will be posted here when finished.
+###
+### July 2020
+### Finished my project that revolved around me learning about Marching Cubes algorithm and gpu coding
+### Found Here https://github.com/PlavaFeniks/Youtube-Marching-Cubes
 
 <!--
 **PlavaFeniks/PlavaFeniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
