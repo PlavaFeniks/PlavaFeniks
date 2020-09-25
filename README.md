@@ -1,9 +1,9 @@
-### Hi there
+## Hi there
 
 - Currently working on n-body simulation with mesh deformation, will be posted here when finished.
 
-- July 2020
-  -Finished my project that revolved around me learning about Marching Cubes algorithm and gpu coding
+### July 2020
+  - Finished my project that revolved around me learning about Marching Cubes algorithm and gpu coding
   - Found Here https://github.com/PlavaFeniks/Youtube-Marching-Cubes
 
 <!--
