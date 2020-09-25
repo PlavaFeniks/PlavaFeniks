@@ -1,6 +1,6 @@
 ### Hi there
 
--Currently working on n-body simulation with mesh deformation, will be posted here when finished.
+- Currently working on n-body simulation with mesh deformation, will be posted here when finished.
 
 - July 2020
   -Finished my project that revolved around me learning about Marching Cubes algorithm and gpu coding
@@ -8,7 +8,7 @@
 
 <!--
 **PlavaFeniks/PlavaFeniks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://guides.github.com/features/mastering-markdown/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
