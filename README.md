@@ -1,6 +1,8 @@
 ## Hi there
 
 - Currently attending University of North Dakota
+- Currently lead automation engineer for UND Lunabotics team
+  - Currently working on creating automation systems for NASA's Lunabotics compentition
 - Currently how to utilize both c++ and blueprints in Unreal Engine 5
 - Currently working on making a Dark Souls style boss fight in UE5.
 
